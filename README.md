@@ -1,4 +1,4 @@
-Repository created based on https://github.com/n8n-io/self-hosted-ai-starter-kit to generate a RAG-powered chatbot, using technologies such as:
+Template to generate a RAG-powered chatbot, using technologies such as:
 - qdrant for the vector database
 - Ollama with Nomic for embedding
 - n8n to build the entire application easily
